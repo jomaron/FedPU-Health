@@ -34,4 +34,4 @@ The classifier's objective is to label the unlabelled samples within the masked 
 Please contact the authors of this work if you have any questions or comments.
 
 ## Cite As
-Qiu W, Quan C, Yu Y, et al. Federated Abnormal Heart Sound Detection with Weak to No Labels[J]. Cyborg and Bionic Systems, pp.1-23, 2024.
+Qiu W, Quan C, Yu Y, et al. Federated Abnormal Heart Sound Detection with Weak to No Labels[J]. Cyborg and Bionic Systems, 5: 0152, pp.1-23, 2024.
